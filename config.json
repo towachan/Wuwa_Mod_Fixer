@@ -1151,17 +1151,20 @@
             "b6c382a8": { "derive": { "LOD": ["6e4b6a73"] } },
             "2066c564": { "derive": { "LOD": ["dc4bd5c5"] } }
         },
-        "Iuno": {
-            "058e71e8": { "derive": { "LOD": ["d8d1efcf", "7c26e7cb"] } },
-            "8390ce3a": { "derive": { "LOD": ["5ecf501d", "faa5cd9c"] } },
-            "5815b5b3": { "derive": { "LOD": ["854a2b94", "ecd9468b"] } },
-            "c70b9ab1": { "derive": { "LOD": ["1a540496", "318751d7"] } },
-            "b399ecff": { "derive": { "LOD": ["6ec672d8", "534fd6fd"] } },
-            "eb383fa1": { "derive": { "LOD": ["3667a186", "6eb6f826"] } },
-            "7143a508": { "derive": { "LOD": ["ac1c3b2f", "b3e12dcb"] } },
-            "eb65da67": { "derive": { "LOD": ["363a4440", "a74a4042"] } },
-            "8e0e454d": { "derive": { "LOD": ["5351db6a", "a8c612c4"] } },
-            "36921691": { "derive": { "LOD": ["ebcd88b6", "41340ed5"] } }
+         "Iuno": {
+            "058e71e8": { "meta": { "id": 5, "type": "N" }, "derive": { "LOD": ["d8d1efcf", "7c26e7cb"] } },
+            "8390ce3a": { "meta": { "id": 5, "type": "D" }, "derive": { "LOD": ["5ecf501d", "faa5cd9c"] } },
+            "5815b5b3": { "meta": { "id": 3, "type": "D" }, "derive": { "LOD": ["854a2b94", "ecd9468b"] } },
+            "c70b9ab1": { "meta": { "id": 3, "type": "N" }, "derive": { "LOD": ["1a540496", "318751d7"] } },
+            "b399ecff": { "meta": { "id": 1, "type": "D" }, "derive": { "LOD": ["6ec672d8", "534fd6fd"] } },
+            "eb383fa1": { "meta": { "id": 0, "type": "D" }, "derive": { "LOD": ["3667a186", "6eb6f826"] } },
+            "7143a508": { "meta": { "id": 4, "type": "N" }, "derive": { "LOD": ["ac1c3b2f", "b3e12dcb"] } },
+            "eb65da67": { "meta": { "id": 4, "type": "D" }, "derive": { "LOD": ["363a4440", "a74a4042"] } },
+            "8e0e454d": { "meta": { "id": 2, "type": "D" }, "derive": { "LOD": ["5351db6a", "a8c612c4"] } },
+            "36921691": { "derive": { "LOD": ["ebcd88b6", "41340ed5"] } },
+            "a50b55d6": { "meta": { "id": 0, "type": "L" } },
+            "f026fa9b": { "meta": { "id": 2, "type": "L" } },
+            "b36886fb": { "meta": { "id": 3, "type": "L" } }
         },
         "Galbrena": {
             "3c29f760": { "derive": { "LOD": ["e1766947", "0666a6b6"] } },
